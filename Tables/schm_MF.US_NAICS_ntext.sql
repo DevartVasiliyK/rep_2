@@ -1,0 +1,6 @@
+﻿CREATE TABLE [schm_MF].[US_NAICS_ntext] (
+  [NAICS] [ntext] NULL
+)
+ON [PRIMARY]
+TEXTIMAGE_ON [PRIMARY]
+GO

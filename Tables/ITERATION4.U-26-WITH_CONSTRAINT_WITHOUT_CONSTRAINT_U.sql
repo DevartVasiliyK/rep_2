@@ -1,0 +1,8 @@
+﻿CREATE TABLE [ITERATION4].[U-26-WITH_CONSTRAINT_WITHOUT_CONSTRAINT_U] (
+  [col1] [int] NULL,
+  [col2] [int] NULL,
+  [col3] [int] NULL,
+  CONSTRAINT [U-26-Constr1_U] UNIQUE ([col3])
+)
+ON [PRIMARY]
+GO

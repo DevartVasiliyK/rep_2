@@ -1,0 +1,9 @@
+﻿SET QUOTED_IDENTIFIER, ANSI_NULLS ON
+GO
+
+CREATE PROCEDURE [dbo].[D-59-CREATE_PROC_with_number_without_number];1
+AS 
+BEGIN
+select * from [D-59-TABLE_FOR_CREATE_PROC1]
+END;
+GO

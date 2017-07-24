@@ -1,0 +1,2 @@
+﻿CREATE TYPE [dbo].[U-48-INT_INTEGER] FROM [int]
+GO

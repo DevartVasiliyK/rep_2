@@ -1,0 +1,5 @@
+﻿CREATE TYPE [dbo].[U-49-NONCLUSTERED/empty] AS TABLE (
+  [col1] [uniqueidentifier] NOT NULL ROWGUIDCOL,
+  PRIMARY KEY NONCLUSTERED ([col1])
+)
+GO

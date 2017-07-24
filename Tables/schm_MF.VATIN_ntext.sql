@@ -1,0 +1,6 @@
+﻿CREATE TABLE [schm_MF].[VATIN_ntext] (
+  [VAT] [ntext] NULL
+)
+ON [PRIMARY]
+TEXTIMAGE_ON [PRIMARY]
+GO

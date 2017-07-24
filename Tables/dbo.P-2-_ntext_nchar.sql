@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[P-2-_ntext_nchar] (
+  [pk_int] [int] NOT NULL,
+  [comp_ntext_nchar] [ntext] NULL,
+  PRIMARY KEY CLUSTERED ([pk_int])
+)
+ON [PRIMARY]
+TEXTIMAGE_ON [PRIMARY]
+GO

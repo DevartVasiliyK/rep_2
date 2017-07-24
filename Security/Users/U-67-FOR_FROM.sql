@@ -1,0 +1,3 @@
+﻿CREATE USER [U-67-FOR/FROM]
+  FOR LOGIN [U67login2]
+GO

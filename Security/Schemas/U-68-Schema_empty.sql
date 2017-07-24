@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [U-68-Schema/empty] AUTHORIZATION [dbo]
+GO

@@ -1,0 +1,3 @@
+﻿CREATE PARTITION FUNCTION [U-7-different_values] ([int])
+  AS RANGE FOR VALUES (10, 100, 1000, 10000)
+GO

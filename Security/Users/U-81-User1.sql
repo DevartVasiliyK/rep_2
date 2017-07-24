@@ -1,0 +1,3 @@
+﻿CREATE USER [U-81-User1]
+  WITHOUT LOGIN
+GO

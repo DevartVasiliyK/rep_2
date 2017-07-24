@@ -1,0 +1,8 @@
+﻿CREATE TABLE [ITERATION4].[U-26-WITH_FILLFACTOR1_WITH_FILLFACTOR2_U] (
+  [col1] [int] NULL,
+  [col2] [int] NULL,
+  [col3] [int] NULL,
+  UNIQUE ([col3]) WITH (FILLFACTOR = 1)
+)
+ON [PRIMARY]
+GO

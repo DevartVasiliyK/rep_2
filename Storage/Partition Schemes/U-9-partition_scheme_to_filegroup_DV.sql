@@ -1,0 +1,3 @@
+﻿CREATE PARTITION SCHEME [U-9-partition_scheme_to_filegroup_DV]
+  AS PARTITION [U-9-DIFFEREN_VALUES1] ALL TO ([PRIMARY])
+GO

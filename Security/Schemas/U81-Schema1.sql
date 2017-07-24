@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [U81-Schema1] AUTHORIZATION [dbo]
+GO

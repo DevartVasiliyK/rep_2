@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [U-68-Schema authorization] AUTHORIZATION [U-68-USER1]
+GO

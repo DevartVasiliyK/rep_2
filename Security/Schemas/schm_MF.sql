@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [schm_MF] AUTHORIZATION [dbo]
+GO

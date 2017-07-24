@@ -1,0 +1,10 @@
+﻿SET QUOTED_IDENTIFIER, ANSI_NULLS ON
+GO
+
+CREATE PROCEDURE [dbo].[D-59-CREATE_PROC_diff_count_tablecol_in_select]
+FOR REPLICATION
+AS 
+BEGIN
+select * from [D-59-CREATE_PROC6]
+END;
+GO

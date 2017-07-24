@@ -1,0 +1,3 @@
+﻿CREATE PARTITION FUNCTION [U-34-for_different_partition_DATATYPE] ([float])
+  AS RANGE RIGHT FOR VALUES (10.1, 20.1)
+GO

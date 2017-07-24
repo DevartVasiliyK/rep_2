@@ -1,0 +1,5 @@
+﻿CREATE TABLE [ITERATION4].[U-11-PKcolumnEMPTY] (
+  [col2] [int] NULL
+)
+ON [PRIMARY]
+GO

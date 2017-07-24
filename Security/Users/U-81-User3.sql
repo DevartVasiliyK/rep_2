@@ -1,0 +1,3 @@
+﻿CREATE USER [U-81-User3]
+  FOR LOGIN [U-81-L1]
+GO

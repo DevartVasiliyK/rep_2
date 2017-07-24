@@ -1,0 +1,2 @@
+﻿CREATE ROLE [U-69-авторизация/пусто] AUTHORIZATION [U-69-USER1]
+GO

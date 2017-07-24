@@ -1,0 +1,10 @@
+﻿SET QUOTED_IDENTIFIER, ANSI_NULLS ON
+GO
+
+CREATE PROC [dbo].[U-49-With Our Type]
+ @parameter [U-49-diff ASC DESC] READONLY
+AS
+BEGIN
+Select 1;
+END
+GO

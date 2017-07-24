@@ -1,0 +1,3 @@
+﻿CREATE USER [U-68-U3]
+  FOR LOGIN [U-68-l2]
+GO

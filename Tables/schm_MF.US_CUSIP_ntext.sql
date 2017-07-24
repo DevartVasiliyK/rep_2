@@ -1,0 +1,6 @@
+﻿CREATE TABLE [schm_MF].[US_CUSIP_ntext] (
+  [CUSIP] [ntext] NULL
+)
+ON [PRIMARY]
+TEXTIMAGE_ON [PRIMARY]
+GO

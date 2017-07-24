@@ -1,0 +1,3 @@
+﻿CREATE PARTITION SCHEME [U-34-тоже русская]
+  AS PARTITION [U-34-русская] ALL TO ([PRIMARY])
+GO

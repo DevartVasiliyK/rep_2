@@ -1,0 +1,3 @@
+﻿CREATE USER [U-77-USER1]
+  FOR LOGIN [U-77-login1]
+GO

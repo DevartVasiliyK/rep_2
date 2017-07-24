@@ -1,0 +1,8 @@
+﻿CREATE TABLE [ITERATION4].[U-25-NONCLUSTERED_EMPTY] (
+  [col1] [int] NULL,
+  [col2] [int] NULL,
+  [col3] [int] NOT NULL,
+  CONSTRAINT [U-25-Constr5] PRIMARY KEY NONCLUSTERED ([col3])
+)
+ON [PRIMARY]
+GO

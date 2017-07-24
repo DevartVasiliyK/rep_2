@@ -1,0 +1,7 @@
+﻿CREATE TABLE [ITERATION4].[U-18-2PRIMARY] (
+  [col1] [int] NOT NULL,
+  [col2] [int] NOT NULL,
+  PRIMARY KEY CLUSTERED ([col1], [col2])
+)
+ON [PRIMARY]
+GO

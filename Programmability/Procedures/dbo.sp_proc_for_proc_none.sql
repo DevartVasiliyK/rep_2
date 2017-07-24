@@ -1,0 +1,6 @@
+﻿SET QUOTED_IDENTIFIER, ANSI_NULLS ON
+GO
+CREATE PROCEDURE [dbo].[sp_proc_for_proc_none]
+AS
+SET NOCOUNT ON;
+GO

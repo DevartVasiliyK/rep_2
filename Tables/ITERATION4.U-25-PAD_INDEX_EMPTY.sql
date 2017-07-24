@@ -1,0 +1,8 @@
+﻿CREATE TABLE [ITERATION4].[U-25-PAD_INDEX_EMPTY] (
+  [col1] [int] NULL,
+  [col2] [int] NULL,
+  [col3] [int] NOT NULL,
+  CONSTRAINT [U-25-Constr10] PRIMARY KEY CLUSTERED ([col3]) WITH (PAD_INDEX = ON)
+)
+ON [PRIMARY]
+GO

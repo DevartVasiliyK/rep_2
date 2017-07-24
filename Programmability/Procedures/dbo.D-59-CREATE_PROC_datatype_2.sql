@@ -1,0 +1,12 @@
+﻿SET QUOTED_IDENTIFIER, ANSI_NULLS ON
+GO
+
+
+CREATE PROCEDURE [dbo].[D-59-CREATE_PROC_datatype_2]
+@Name varchar(30) = '%'
+AS 
+BEGIN
+PRINT @Name
+END;
+
+GO

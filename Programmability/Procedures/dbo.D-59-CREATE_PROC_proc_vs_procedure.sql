@@ -1,0 +1,10 @@
+﻿SET QUOTED_IDENTIFIER, ANSI_NULLS ON
+GO
+
+CREATE PROC [dbo].[D-59-CREATE_PROC_proc_vs_procedure]
+AS 
+BEGIN
+select * from [D-59-TABLE_FOR_CREATE_PROC]
+END;
+
+GO
